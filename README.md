@@ -1,5 +1,6 @@
-# CSC-497
+# CSC497
 Interdisciplinary Project from CSC497 at University of Victoria
+
 Vancouver Biker Assitance Application 
 
 Research under the direction of a faculty member.
